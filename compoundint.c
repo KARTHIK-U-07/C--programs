@@ -1,11 +1,6 @@
 // C program to calculate Compound Interest
 #include <stdio.h>
-
-// For using pow function we must
-// include math.h
 #include <math.h>
-
-// Driver code
 int main()
 {
     // Principal amount
