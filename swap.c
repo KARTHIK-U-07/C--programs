@@ -1,6 +1,4 @@
-// C Program to
-// Swap two numbers
-// No Extra Space
+// swap of two numbers
 #include <stdio.h>
 
 int main()
